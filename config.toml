@@ -41,8 +41,8 @@ pageID = ""
 page = "" # Twitter Page username. If not set, params.social.twitter will be used.
 
 [params.social]
-twitter = ""
-github = ""
+twitter = "momisu"
+github = "matsuhaya"
 email = ""
 linkedin = ""
 facebook = ""
