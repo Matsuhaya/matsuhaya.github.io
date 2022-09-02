@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; matsuhaya 2022</copyright>
-    <lastBuildDate>Sun, 22 May 2022 19:26:45 +0900</lastBuildDate><atom:link href="https://matsuhaya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 00:11:55 +0900</lastBuildDate><atom:link href="https://matsuhaya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>複数のファイル名をエディタで一括リネームすることについて考える</title>
+      <link>https://matsuhaya.github.io/posts/2022/09/03/think_about_renaming_multiple_files_with_editor/</link>
+      <pubDate>Sat, 03 Sep 2022 00:11:55 +0900</pubDate>
+      
+      <guid>https://matsuhaya.github.io/posts/2022/09/03/think_about_renaming_multiple_files_with_editor/</guid>
+      <description>&lt;p&gt;題名のとおり、複数のファイル名をエディタで一括リネームしたい場合がある。
+自分は基本的にVSCodeを利用しているが、マルチカーソル機能を利用して編集すると正確で早い編集ができる。
+今回、Goでプログラムを書いたのでその際に考えたことを残す。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hello, World</title>
       <link>https://matsuhaya.github.io/posts/2022/05/22/hello_world/</link>
